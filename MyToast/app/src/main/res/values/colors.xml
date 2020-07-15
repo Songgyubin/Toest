@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_green">#6a8136</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_card">#FEFEFE</color>
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#BFBFBF</color>
+    <color name="colorAccent">#FFC107</color>
+
+
+    <color name="backGround">#eeeeee</color>
+    <color name="headerBackGround">#ffffff</color>
+    <color name="scriptBackGround">#ffffff</color>
+    <color name="playerBackGround">#ffffff</color>
+
+
+    <color name="textBlack">#111111</color>
+    <color name="textGray">#808080</color>
+    <color name="playerIcon">#585858</color>
+    <color name="border">#BFBFBF</color>
+    <color name="primaryColor">#001BC2</color>
+    <color name="actionColor">#001BC2</color>
+    <color name="secondaryColor">#E00000</color>
+    <color name="scriptLineBlue">#B3001BC2</color>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/headerBackGround"
+    android:gravity="center_vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/action_bar_logo"
+            android:layout_width="71dp"
+            android:layout_height="16dp"
+            android:background="@color/white"
+            android:src="@drawable/toest_text2"
+            android:layout_marginRight="50dp"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

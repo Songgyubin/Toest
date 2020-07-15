@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">토스트</string>
+  <string name="header">header</string>
+  <string name="empty">empty</string>
+</resources>

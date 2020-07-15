@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/headerBackGround"
+    android:gravity="center_vertical">
+
+    <ImageButton
+        android:id="@+id/action_bar_back_player"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="18dp"
+        android:background="@color/white"
+        android:onClick="actionbar_player_onClick"
+        android:src="@drawable/previous_24" />
+
+    <TextView
+        android:id="@+id/action_bar_musicname"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="2019_LC_01"
+        android:textColor="@color/textBlack"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
