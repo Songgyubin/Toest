@@ -43,7 +43,7 @@
  <img width="200" src ="https://user-images.githubusercontent.com/37494776/88039215-3b578580-cb82-11ea-9ebf-d4c9930a4911.png"> 
   
   </div>
-* 원하는 문장 선택 듣기
+* 원하는 문장 선택 
 <div> 
  <img width="200" src ="https://user-images.githubusercontent.com/37494776/88039219-3db9df80-cb82-11ea-9321-bc87f7a56b79.png"> 
   
