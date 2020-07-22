@@ -26,9 +26,8 @@
   </div>
   
 * 분석 중 애니메이션 제공
-<div> 
- <img width="200" src ="https://user-images.githubusercontent.com/37494776/88039175-31ce1d80-cb82-11ea-8697-35bd1130def1.png"> 
-  </div>
+
+ [![Watch the video](https://j.gifs.com/4Qojn0.gif)
   
   * 스크립트 ON & OFF
 <div> 
