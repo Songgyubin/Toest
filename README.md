@@ -11,7 +11,7 @@
 * MVP
 * Realm DB
 * Retrofit2
-* ExoPlayer
+* MediaPlayer
 * Lottie
 * DeepSpeech
 * FFMpeg
