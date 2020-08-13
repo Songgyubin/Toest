@@ -9,12 +9,14 @@
 
 ## 이런 기술들을 썼어요!
 * MVP
+* ButterKnife
 * Realm DB
 * Retrofit2
 * MediaPlayer
 * Lottie
 * DeepSpeech
 * FFMpeg
+
 
 ## 이런 화면들이 있습니다!
 * 음원 업로드 FLOW
