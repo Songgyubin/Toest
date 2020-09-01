@@ -29,7 +29,7 @@
   
 * 분석 중 애니메이션 제공
 
- [![Watch the video](https://j.gifs.com/4Qojn0.gif)
+ ![Watch the video](https://j.gifs.com/4Qojn0.gif)
   
   * 스크립트 ON & OFF
 <div> 
