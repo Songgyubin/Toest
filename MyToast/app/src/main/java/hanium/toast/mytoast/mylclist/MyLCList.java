@@ -259,7 +259,6 @@ public class MyLCList extends BaseActivity implements
                     Log.e(TAG, "onOkCliked: "+"Uploding클래스로 이동" );
                     startActivity(intent);
                     // 서버에 업로드
-
                 }
 
                 @Override

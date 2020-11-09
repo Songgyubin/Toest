@@ -45,17 +45,23 @@ dependencies {
     implementation "com.jakewharton:butterknife:$butterKnifeVersion"
     annotationProcessor "com.jakewharton:butterknife-compiler:$butterKnifeVersion"
 
+    // retrofit2
+    implementation "com.squareup.retrofit2:retrofit:2.9.0"
+    implementation 'com.squareup.retrofit2:converter-gson:2.6.4'
+    implementation 'com.squareup.retrofit2:converter-scalars:2.6.4'
+
     // expandable recyclerview
     implementation "com.thoughtbot:expandablerecyclerview:$expandableRecyclerViewVersion"
+
 
     // lottie
     implementation "com.airbnb.android:lottie:$lottieVersion"
 
     //junit framework
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13.1'
 
     //espresso framework
-    androidTestImplementation 'com.android.support.test:runner:1.0.toest_2'
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.toest_2'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
 }
